@@ -27,6 +27,10 @@ La arquitectura que se usara para esta app es la siguiente:
 
 [![video](https://img.youtube.com/vi/5EEmQwcjUa4/0.jpg)](https://youtu.be/5EEmQwcjUa4)
 
+# Clonar repositorio:
+[Watson Discovery][url-dis]
+
+[url-dis]: https://github.com/ibmdevelopermx/watson-discovery
 
 ## Antes de empezar te recomendamos:
 * Realizar el [PreWork][url-prework].
