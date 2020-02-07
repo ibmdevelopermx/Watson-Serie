@@ -8,9 +8,13 @@ Aplicacion que nos permitirará subir una imagen para que el servicio de IBM CLO
 [![Demo Visual Recognition][img-demovisual]][url-demovisual]
 
 
-# IBM Recipe - Visual recognition 
+# Visual recognition 
 ![](assets/visualrec.png)<br/> 
 
+# Clonar repositorio:
+[Visual Recognition][url-visual]
+
+[url-visual]: https://github.com/ibmdevelopermx/Visual_recognition
 
 ## Antes de empezar te recomendamos:
 * Realizar el [PreWork][url-prework].
