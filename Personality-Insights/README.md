@@ -16,6 +16,11 @@ Aplicación que simula una herramienta que ayuda a pronosticar las característi
 [url-cupones]: https://github.com/ibmdevelopermx/Watson-Serie#Cupones-para-profesores-y-estudiantes
 [url-aplica]: https://github.com/ibmdevelopermx/Watson-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
 
+# Clonar repositorio:
+[Personality Insights][url-PI]
+
+[url-PI]: https://github.com/ibmdevelopermx/PersonalityInsights
+
 ## Contenido
 
 Empezaremos creando nuestro servicio dentro de IBM Cloud. Para esto, iremos a la parte de catalogo y buscaremos Personality Insihgts.
