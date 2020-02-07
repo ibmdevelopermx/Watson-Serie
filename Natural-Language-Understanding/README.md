@@ -15,6 +15,10 @@ Cuando termines este recipe, podrás entender como:
 
 <!--Remember to dump an image in this path-->
 ![Architecture](/docs/app-architecture.png)
+# Clonar repositorio:
+[Natural Language Understanding][url-NLU
+
+[url-NLU]:https://github.com/ibmdevelopermx/NaturalLanguageUnderstanding
 
 ## Antes de empezar te recomendamos:
 * Realizar el [PreWork][url-prework].
