@@ -12,6 +12,11 @@ Aprende a crear un asistente virtual para ordenar tacos!
 [url-cupones]: https://github.com/ibmdevelopermx/Watson-Serie#Cupones-para-profesores-y-estudiantes
 [url-aplica]: https://github.com/ibmdevelopermx/Watson-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
 
+# Clonar el repositorio:
+[WatsonAssintant][url-WatsonAssistant]
+
+[url-WatsonAssistant]: https://github.com/ibmdevelopermx/Watson-Assistant-Cuenta
+
 
 # Creación del servicio
 1. Entrar al portal de [**IBM Cloud**](https://cloud.ibm.com/)
