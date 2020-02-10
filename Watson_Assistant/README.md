@@ -15,7 +15,7 @@ Aprende a crear un asistente virtual para ordenar tacos!
 # Clonar el repositorio:
 [WatsonAssintant][url-WatsonAssistant]
 
-[url-WatsonAssistant]: https://github.com/ibmdevelopermx/Watson-Assistant-Cuenta
+[url-WatsonAssistant]: https://github.com/ibmdevelopermx/Watson_Assistant_Taquero
 
 
 # Creación del servicio
