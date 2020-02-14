@@ -135,7 +135,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-demovisual]: https://watson-visual-recognition-duo-dev.ng.bluemix.net/
 [img-demonlu]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Understanding-red.svg
 [url-demonlu]: http://dte-nlu-demo.mybluemix.net/self-service/home
-[img-gitnlu]: https://img.shields.io/badge/GIT-Watson%20Natural%20Language%20Understanding-blueviolet.svg
+[img-gitnlu]: https://img.shields.io/badge/LAB-Watson%20Natural%20Language%20Understanding-blueviolet.svg
 [url-gitnlu]: /Natural-Language-Understanding
 [img-demonlc]: https://img.shields.io/badge/DEMO-Watson%20Natural%20Language%20Classifier-red.svg
 [url-demonlc]: https://natural-language-classifier-demo.ng.bluemix.net
@@ -149,13 +149,13 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-demodis]: https://discovery-news-demo.ng.bluemix.net/
 [img-demopi]: https://img.shields.io/badge/DEMO-Watson%20Personality%20Insights-red.svg
 [url-demopi]: https://personality-insights-demo.ng.bluemix.net/
-[img-gitassist]: https://img.shields.io/badge/GIT-Watson%20Assistant-blueviolet.svg
+[img-gitassist]: https://img.shields.io/badge/LAB-Watson%20Assistant-blueviolet.svg
 [url-gitassist]: /Watson_Assistant
-[img-gitvisual]: https://img.shields.io/badge/GIT-Watson%20Visual%20Recognition-blueviolet.svg
+[img-gitvisual]: https://img.shields.io/badge/LAB-Watson%20Visual%20Recognition-blueviolet.svg
 [url-gitvisual]: /Visual-recognition
-[img-gitpi]: https://img.shields.io/badge/GIT-Watson%20Personality%20Insights-blueviolet.svg
+[img-gitpi]: https://img.shields.io/badge/LAB-Watson%20Personality%20Insights-blueviolet.svg
 [url-gitpi]: /Personality-Insights
-[img-dis]: https://img.shields.io/badge/GIT-Watson%20Discovery-blueviolet.svg
+[img-dis]: https://img.shields.io/badge/LAB-Watson%20Discovery-blueviolet.svg
 [url-dis]: /Watson-Discovery
-[img-gitks]: https://img.shields.io/badge/GIT-Watson%20Knowledge%20Studio-blueviolet.svg
+[img-gitks]: https://img.shields.io/badge/LAB-Watson%20Knowledge%20Studio-blueviolet.svg
 [url-gitks]:/Knowledge-Studio
