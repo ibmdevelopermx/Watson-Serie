@@ -185,7 +185,7 @@
 20. Corremos el comando “ibmcloud target -cf“ para redirigirnos a nuestra organización y espacio predeterminados.<br>
 ![](img/im60.png)<br>
 ![](img/im61.png)<br>
-##Nota: Si te da problemas el comando se tiene que crear una organización y un espacio, estos se crean con los comandos: <ibmcloud account org-create NOMBREDELAORGANIZACIÓN> y <ibmcloud --cf create-space NOMBREDELESPACIO(preferentemente dev) -o NOMBREDELAORGANIZACIÓN>, Después puedes ejecutar el comando mencionado arriba sin ningún problema.
+## Nota: Si te da problemas el comando se tiene que crear una organización y un espacio, estos se crean con los comandos: <ibmcloud account org-create NOMBREDELAORGANIZACIÓN> y <ibmcloud --cf create-space NOMBREDELESPACIO(preferentemente dev) -o NOMBREDELAORGANIZACIÓN>, Después puedes ejecutar el comando mencionado arriba sin ningún problema.
 21. Corremos el comando “ibmcloud cf push” para desplegar nuestra aplicación en la nube.<br>
 ![](img/im62.png)<br>
 22. Una vez que termine de cargar todo el proceso necesario de la terminal, nos arrojara un link en el cual podremos accesar a nuestra aplicación a través de internet, copiamos la dirección.<br>
