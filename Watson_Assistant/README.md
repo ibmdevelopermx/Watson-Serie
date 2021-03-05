@@ -6,7 +6,7 @@
 
 # Pre-requisitos
 * Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
-* Tener una cuenta de [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
+* Tener una cuenta de [**IBM Cloud**](https://ibm.biz/BdfisB).<br/>
 * Tener una cuenta en [**Github**](https://github.com).<br/>
 * **Clonar este Repositorio**.<br/> 
 
