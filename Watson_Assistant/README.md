@@ -7,6 +7,7 @@
 # Pre-requisitos
 * Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
 * Tener una cuenta de [**IBM Cloud**](https://ibm.biz/BdfisB).<br/>
+* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
 * Tener una cuenta en [**Github**](https://github.com).<br/>
 * **Clonar este Repositorio**.<br/> 
 
@@ -201,3 +202,5 @@
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
+[url-CLI-IBMCLOUD]: https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli
+
