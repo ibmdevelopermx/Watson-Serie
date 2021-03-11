@@ -10,8 +10,8 @@ var bodyParser = require('body-parser');
 
 //IAM
 var wconv_version_date = '2020-02-02';
-var wconv_workspaceId = '289bb00f-1cc9-4dc4-a32f-1997fbd750cc';
-var wconv_apikey = 'D8maTdPVeGNJOvJnfnT-1w8oH0yEdRflUsyi16GfjJ0w'
+var wconv_workspaceId = 'Añade aqui tus credenciales';
+var wconv_apikey = 'Añade aqui tus credenciales'
 var wconv_url = 'https://gateway.watsonplatform.net/assistant/api'
 
 var app = express();
