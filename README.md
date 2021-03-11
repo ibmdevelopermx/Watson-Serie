@@ -34,14 +34,14 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![Demo Natural Language Understanding][img-demonlu]][url-demonlu] Para probar como funciona.
 * [![Watson Natural Language Understanding][img-gitnlu]][url-gitnlu] Para crear el tuyo.
 
-4. ### Classificacion de lenguaje especifico.<br>
+3. ### Classificacion de lenguaje especifico.<br>
 ¿Qué es?
 **Watson Knowledge Studio** le permitira enseñar a **Watson** el lenguaje de su industria u organización sin necesidad de conocimientos técnicos profundos o codificación.<br>
 * [![IBM Cloud Watson Knowledge Studio][img-ks]][url-ks] Para obtener más información.
 * [![Demo Watson Knowledge Studio][img-demoks]][url-demoks] Para probar como funciona.
 * [![GIT Watson Knowledge Studio][img-gitks]][url-gitks] Para conocer como crearlo.
 
-5. ### Analisis de patrones en documentos.<br>
+4. ### Analisis de patrones en documentos.<br>
 ¿Qué es?
 **Watson Discovery** facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 * [![IBM Cloud Watson Discovery][img-discovery]][url-discovery] Para obtener mayor información.
@@ -62,13 +62,13 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
 * [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.-->
 
-6. ### Voz a texto.<br>
+5. ### Voz a texto.<br>
 ¿Qué es?
 **Watson Speech to Text** brinda una API para añadir funciones de transcripción de voz a las aplicaciones. Combina información sobre la estructura del lenguaje con la composición de la señal de audio.
 * [![IBM Cloud Watson Speech to Text][img-speech]][url-speech] Para obtener mayor información.
 * [![Demo Speech to text][img-demospeech]][url-demospeech] Para probar como funciona.
 
-7. ### Texto a voz.<br>
+6. ### Texto a voz.<br>
 ¿Qué es?
 **Watson Text to Speech** genera audios con voces similares a las de los humanos a partir de textos escritos. Mejore la experiencia y participación del cliente al interactuar con los usuarios en múltiples idiomas y tonos. Incremente la accesibilidad a contenido para los usuarios con capacidades diferentes, ofrezca opciones de audio para evitar distracciones al conducir o automatice las interacciones de servicio al cliente para aumentar la eficiencia.
 * [![IBM Cloud Watson Text to Speech][img-text]][url-text] Para obtener mayor información.
