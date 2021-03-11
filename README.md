@@ -20,14 +20,14 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 * [![Demo Assistant][img-demoassist]][url-demoassist] Para probarlo como funciona.
 * [![Watson Assistant][img-gitassist]][url-gitassist] Para crear el tuyo.
 
-2. ### Reconocimiento visual.<br>
+<!-- 2. ### Reconocimiento visual.<br>
 ¿Qué es? 
 **Watson Visual Recognition** entiende el contenido de las imágenes. Analiza imágenes para encontrar escenas, objetos, caras, colores, alimentos, y otros temas que le pueden dar perspectiva sobre el contenido visual.
 * [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual] Para obtener más informacón.
 * [![Demo Visual][img-demovisual]][url-demovisual] Para probar como funciona.
 * [![Watson Visual Recognition][img-gitvisual]][url-gitvisual] Para crear el tuyo.
 
-3. ### Entendimiento de lenguaje natural.<br>
+2. ### Entendimiento de lenguaje natural.<br>
 ¿Qué es?
 Analice textos con la comprensión de **Watson Natural Language Understanding** para extraer metadatos del contenido, como: conceptos, entidades, palabras clave, categorías, sentimientos, emociones, relaciones y roles semánticos. 
 * [![IBM Cloud Watson Natural Language Understanding][img-nlu]][url-nlu] Para obtener más información.
@@ -48,7 +48,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![Demo Discovery][img-demodis]][url-demodis] Para probar como funciona.
 * [![Watson Discovery][img-dis]][url-dis] Para crear uno prediseñado.
 
-6. ### Valores de la personalidad.<br>
+<!-- 6. ### Valores de la personalidad.<br>
 ¿Qué es?
 **Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Ayudando a comprender los hábitos y las preferencias de los clientes a nivel individual y a escala.
 * [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
@@ -62,13 +62,13 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 * [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
 * [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
 
-8. ### Voz a texto.<br>
+6. ### Voz a texto.<br>
 ¿Qué es?
 **Watson Speech to Text** brinda una API para añadir funciones de transcripción de voz a las aplicaciones. Combina información sobre la estructura del lenguaje con la composición de la señal de audio.
 * [![IBM Cloud Watson Speech to Text][img-speech]][url-speech] Para obtener mayor información.
 * [![Demo Speech to text][img-demospeech]][url-demospeech] Para probar como funciona.
 
-9. ### Texto a voz.<br>
+7. ### Texto a voz.<br>
 ¿Qué es?
 **Watson Text to Speech** genera audios con voces similares a las de los humanos a partir de textos escritos. Mejore la experiencia y participación del cliente al interactuar con los usuarios en múltiples idiomas y tonos. Incremente la accesibilidad a contenido para los usuarios con capacidades diferentes, ofrezca opciones de audio para evitar distracciones al conducir o automatice las interacciones de servicio al cliente para aumentar la eficiencia.
 * [![IBM Cloud Watson Text to Speech][img-text]][url-text] Para obtener mayor información.
