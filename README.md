@@ -25,7 +25,7 @@ Conoceras la inteligencia artificial de IBM Cloud, Watson [![IBM Cloud Watson][i
 **Watson Visual Recognition** entiende el contenido de las imágenes. Analiza imágenes para encontrar escenas, objetos, caras, colores, alimentos, y otros temas que le pueden dar perspectiva sobre el contenido visual.
 * [![IBM Cloud Watson Visual Recognition][img-visual]][url-visual] Para obtener más informacón.
 * [![Demo Visual][img-demovisual]][url-demovisual] Para probar como funciona.
-* [![Watson Visual Recognition][img-gitvisual]][url-gitvisual] Para crear el tuyo.
+* [![Watson Visual Recognition][img-gitvisual]][url-gitvisual] Para crear el tuyo.-->
 
 2. ### Entendimiento de lenguaje natural.<br>
 ¿Qué es?
@@ -53,14 +53,14 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 **Watson Personality Insights** ayuda a pronosticar las características, las necesidades y los valores de la personalidad por medio de textos escritos. Ayudando a comprender los hábitos y las preferencias de los clientes a nivel individual y a escala.
 * [![IBM Cloud Watson Personality Insights][img-pi]][url-pi] Para obtener mayor información.
 * [![Demo Personality Insights][img-demopi]][url-demopi] Para probar como funiciona.
-* [![Watson Personality Insights][img-gitpi]][url-gitpi] Para crear el tuyo.
+* [![Watson Personality Insights][img-gitpi]][url-gitpi] Para crear el tuyo.-->
  
 <!-- 7. ### Clasificacion de lenguaje natural.<br>
 ¿Qué es?
 **Watson Natural Language Classifier** devuelve las clases que mejor coinciden para una oración o frase. Por ejemplo, usted envía una pregunta y esto devuelve las claves para las respuestas que mejor coinciden o las acciones siguientes para su aplicación.<br>
 **NOTA IMPORTANTE: Este servicio no tiene version lite, por lo que necesitaras creditos para crearlo y usarlo**
 * [![IBM Cloud Watson Natural Language Classifier][img-nlc]][url-nlc] Para obtener más información.
-* [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.
+* [![Demo Natural Language Classifier][img-demonlc]][url-demonlc] Para probar como funciona.-->
 
 6. ### Voz a texto.<br>
 ¿Qué es?
