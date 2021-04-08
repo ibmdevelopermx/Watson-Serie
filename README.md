@@ -108,7 +108,7 @@ Analice textos con la comprensión de **Watson Natural Language Understanding** 
 [url-node]: https://nodejs.org/es/download/
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
-[url-ibmcloud]: https://www.ibm.com/cloud/
+[url-ibmcloud]: https://ibm.biz/BdfYZt
 [img-ibmcloud-watson]: https://img.shields.io/badge/IBM%20Cloud-Watson-blue.svg
 [url-ibmcloud-watson]: https://www.ibm.com/watson
 [img-assistant]: https://img.shields.io/badge/IBM%20Cloud-Watson%20Assistant-blue.svg
