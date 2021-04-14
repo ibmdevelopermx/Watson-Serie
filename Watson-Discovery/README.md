@@ -4,7 +4,7 @@
 
 # Pre-requisitos
 * Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
-* Tener una cuenta de [**IBM Cloud**](https://ibm.biz/BdfisB).<br/>
+* Tener una cuenta de [**IBM Cloud**](https://ibm.biz/BdfYZt).<br/>
 * Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
 * Tener una cuenta en [**Github**](https://github.com).<br/>
 * **Clonar este Repositorio**.<br/> 
