@@ -2,12 +2,43 @@
 
 ![](img/im1.png)
 
+# Pre-requisitos
+* Tener instalado [**Node.js**](https://nodejs.org/es/).<br/>
+* Tener una cuenta de [**IBM Cloud**](https://ibm.biz/BdfisB).<br/>
+* Instalar [CLI de IBM Cloud][url-CLI-IBMCLOUD] 
+* Tener una cuenta en [**Github**](https://github.com).<br/>
+* **Clonar este Repositorio**.<br/> 
+
+## Cupones para profesores y estudiantes:
+
+* Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
+* Realizar el registro correspondiente utilizando la cuenta de correo académica y confirma tu cuenta.
+* Despues de confirmar tu cuenta, y con la sesion iniciada en IBM Academic Initiative, en la parte de "Most Popular Topics covered", encontraremos **IBM Cloud** y damos clic en "Learn more".
+* Bajamos de la pagina hasta encontrar "Software". Le damos clic, nos dara un apartado que se llama "Request Feature Code".
+* Nos dara nuestro codigo. Lo copiamos y lo llevamos a **IBM Cloud**.
+
+## Cargar créditos en IBM Cloud:
+
+* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
+* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
+* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
+* Da clic en "Apply code"/"Aplicar codigo".
+* Ingresamos el codigo y clic en "Apply"/"Aplicar".
+
+[url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
+[url-onthehub]: https://onthehub.com/ibm/?utm_sourc=ibm-ai-productpage&utm_medium=onthehubproductpage&utm_campaign=IBM
+[url-IBMCLOUD]: https://cloud.ibm.com/registration
+[url-CLI-IBMCLOUD]: https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli
+[url-github-join]: https://github.com/join
+[url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[url-githubdesktop]: https://desktop.github.com/
+[url-node]: https://nodejs.org/es/download/
+
 
 # Watson Discovery
 Facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 
-[![IBM Cloud Watson Discovery][img-discovery]][url-discovery] 
-[![Demo Discovery][img-demodis]][url-demodis] 
+[![IBM Cloud Watson Discovery][img-discovery]][url-discovery]  
 
 El principal beneficio de usar **Watson Discovery** es el poderoso motor de analisis que provee enriquecimientos cognitivos y caracteristicas a tu información. Esto provee ejemplos de como mostrar estos enriquecimientos mediante el uso de filtros, listas y graficas. Los principales enriquecimientos en los que nos enfocaremos son:
 
@@ -17,46 +48,18 @@ El principal beneficio de usar **Watson Discovery** es el poderoso motor de anal
 * Palabras clave - Temas importantes usados de forma tipica para buscar o encontrar información.
 * Sentimientos - El sentimiento total positivo o negativo de cada documento.
 
-Usaremos información de reseñas de de una pizzeria en CDMX.
-<br>
-La arquitectura que se usara para esta app es la siguiente:
-
-![architecture](doc/source/images/architecture.png)
-
-### Mira este video para mayor información
-
-[![video](https://img.youtube.com/vi/5EEmQwcjUa4/0.jpg)](https://youtu.be/5EEmQwcjUa4)
-
-# Clonar repositorio:
-[Watson Discovery][url-dis]
-
-[url-dis]: https://github.com/ibmdevelopermx/watson-discovery
-
-## Antes de empezar te recomendamos:
-* Realizar el [PreWork][url-prework].
-* Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones][url-cupones].
-* Si tienes algun codigo promocional te decimos como [Aplicarlos][url-aplica].
-
-[url-prework]: https://github.com/ibmdevelopermx/Watson-Serie#Prework
-[url-cupones]: https://github.com/ibmdevelopermx/Watson-Serie#Cupones-para-profesores-y-estudiantes
-[url-aplica]: https://github.com/ibmdevelopermx/Watson-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
-
-
-## Módulo: Discovery
-IBM Developer Advocates Team
-### Indice
-* [Crear instancia de Discovery](#Crear-una-instancia-de-Discovery)
+## Contenido
+* [Creación de una instancia de Discovery](#Crear-una-instancia-de-Discovery)
 * [Realizar el scrapping de los datos](#Preparar-datos-y-documentos)
 * [Realizar una consulta a la base de datos](#Realizar-una-consulta-a-la-base-de-datos) 
 * [Crear una consulta](#Crear-una-consulta)
 * [Realizar una consulta](#Realizar-una-consulta)
 * [Desplegar una app que consuma el servicio](#Despliegue)
 
-## Crear una instancia de Discovery<br>
+# Crear una instancia de Discovery
 1. En la parte superior derecha, damos clic en catalog o catálogo.
 2. En el menú del lado izquierdo, selecciona la opción de AI y posteriormente, el servicio de Discovery.
-![](img/im2.png)
-![](img/im3.png)
+![](img/im40.png)
 3. Le damos nombre al servicio, seleccionamos el plan de pago que querramos y damos clic en Create o Crear.
 ![](img/im4.png)
 ![](img/im5.png)

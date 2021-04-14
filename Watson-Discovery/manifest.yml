@@ -1,0 +1,16 @@
+---
+declared-services:
+  wdui-discovery-service:
+    label: discovery
+    plan: lite
+applications:
+- path: .
+  name: watson-discovery-ui
+  buildpack: sdk-for-nodejs
+  memory: 256M
+  instances: 1
+  random-route: true
+  services:
+  - wdui-discovery-service
+env:
+  OPTIMIZE_MEMORY: true
