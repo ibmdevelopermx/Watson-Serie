@@ -123,7 +123,6 @@ consulta”. Desplegamos el apartado “Search for documents” o “Buscar docu
 1. Ingresamos a la página principal de nuestro servicio de discovery y damos clic en “Upload your own data” o “Cargar tus propios datos”, para crear una nueva colección.
 ![](img/im25.png)
 2. Le damos el nombre de “Reseñas”, seleccionamos el idioma “Español” y damos clic en “Create” o “Crear”.
-
 ![](img/im26.png)
 3. Vamos a configurar la colección. En la parte superior derecha, damos clic en “Configure Data” o “Configurar documentos”.
 ![](img/im27.png)
