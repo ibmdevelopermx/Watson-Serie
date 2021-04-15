@@ -116,8 +116,8 @@ consulta”. Desplegamos el apartado “Search for documents” o “Buscar docu
 3. En la caja de texto que dice “Enter query here” o “Ingresa consulta aquí”, escribimos o pegamos la consulta que creamos en el paso anterior y damos clic en “Run query” o “Generar consulta”.
 ![](img/im22.png)
 4. Al realizar la consulta, nos dará como retorno la serie de documentos que cumplan con los parámetros de la consulta.
-![](img/im23.png)
-![](img/im24.png)
+![](img/im41.png)
+![](img/im42.png)
 
 ## Desplegar una app que consuma el servicio de Watson Discovery.
 1. Ingresamos a la página principal de nuestro servicio de discovery y damos clic en “Upload your own data” o “Cargar tus propios datos”, para crear una nueva colección.
