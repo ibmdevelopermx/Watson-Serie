@@ -1,0 +1,14 @@
+# Copy this file to .env and replace the credentials with
+# your own before starting the app.
+
+# Watson Discovery
+DISCOVERY_URL=
+DISCOVERY_ENVIRONMENT_ID=
+DISCOVERY_COLLECTION_ID=
+## Un-comment and use either username+password or IAM apikey.
+DISCOVERY_IAM_APIKEY=
+# DISCOVERY_USERNAME=
+# DISCOVERY_PASSWORD=
+
+# Run locally on a non-default port (default is 3000)
+# PORT=3000
