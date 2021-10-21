@@ -168,9 +168,9 @@
 11. En la pestaña de servicios, damos clic en nuestra instancia de “Watson Assistant”.<br>
 ![](img/im51.png)<br>
 12. Damos clic en la pestaña de “credenciales de servicio”, después en “Ver credenciales” y copiamos el “apikey” y copiamos el URL del servicio.<br>
-![](img/IMG14.PNG)<br>
+![](img/im52.png)<br>
 13. Regresamos a nuestro archivo “app.js” en nuestro editor de texto y pegamos el “apikey” en la línea 14 en donde nos pide "wconv_apikey = ", y en la linea 15 pegamos la URL donde nos pida la variable "wconv_url = " y salvamos el archivo.<br>
-![](img/cambiar credenciales.PNG)<br>
+![](img/im53.png)<br>
 14. Dentro de nuestro editor de texto vamos al archivo “manifest.yml” y asignamos un nombre único a nuestra aplicación, en donde nos pide "name: ".<br>
 ![](img/im54.png)<br>
 15. Posteriormente abrimos una nueva terminal y nos direccionamos en la carpeta que clonamos del repositorio.<br>
